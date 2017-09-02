@@ -7,13 +7,7 @@
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico" />
 </head>
 <body>
-<h1>hello</h1>
-<g:link view="lucas">lucas</g:link>
-${1+1}
-<ul>
-<g:each in ="${['one','two','three']}" var="number">
-<li>${number} text</li>
-</g:each>
-</ul>
+<h1>about</h1>
+
 </body>
 </html>
