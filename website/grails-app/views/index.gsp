@@ -8,7 +8,8 @@
 </head>
 <body>
 <h1>hello</h1>
-<g:link view="lucas">lucas</g:link>
+<g:link view="lucas">lucas</g:link> <br/>
+<g:link controller="capdemo">CAP demo</g:link>
 ${1+1}
 <ul>
 <g:each in ="${['one','two','three']}" var="number">
